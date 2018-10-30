@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Let\'s Share</string>
+    <string name="regester"> <u> Not Regesterd Yet? </u> </string>
+    <string name="title_activity_signup">Signup</string>
+</resources>
